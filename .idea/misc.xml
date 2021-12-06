@@ -5,6 +5,7 @@
       <map>
         <entry key="app/src/main/res/drawable/ic_vaccine.xml" value="0.23333333333333334" />
         <entry key="app/src/main/res/layout/activity_main.xml" value="0.25" />
+        <entry key="app/src/main/res/layout/activity_splash_screen.xml" value="0.2171875" />
         <entry key="app/src/main/res/layout/cener_rv_item.xml" value="0.2171875" />
         <entry key="app/src/main/res/layout/center_rv_item.xml" value="0.33" />
       </map>

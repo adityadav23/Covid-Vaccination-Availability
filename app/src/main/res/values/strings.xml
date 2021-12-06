@@ -9,4 +9,5 @@
     <string name="vaccine_fees">Fees:</string>
     <string name="age_limit">Age Limit</string>
     <string name="vaccine_availability"> Availability</string>
+    <string name="vaccine_logo_string">Vaccine</string>
 </resources>
