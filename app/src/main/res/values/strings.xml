@@ -1,4 +1,12 @@
 <resources>
     <string name="app_name">Covid Vaccination</string>
-    <string name="enter_pin">Entin Pin Here</string>
+    <string name="enter_pin">Enter Pin Code</string>
+    <string name="search_pincode">SEARCH</string>
+    <string name="center_name">Center Name</string>
+    <string name="center_location">Center Location</string>
+    <string name="timings">Center Timings:</string>
+    <string name="vaccine_name">Vaccine Name</string>
+    <string name="vaccine_fees">Fees:</string>
+    <string name="age_limit">Age Limit</string>
+    <string name="vaccine_availability"> Availability</string>
 </resources>
