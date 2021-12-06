@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Covid Vaccination</string>
+    <string name="enter_pin">Entin Pin Here</string>
+</resources>
